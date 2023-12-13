@@ -1,0 +1,1 @@
+cmd_/home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/hello_world.mod := printf '%s\n'   hello_world.o | awk '!x[$$0]++ { print("/home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/"$$0) }' > /home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/hello_world.mod

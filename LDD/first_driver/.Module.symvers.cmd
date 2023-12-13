@@ -1,0 +1,1 @@
+cmd_/home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/Module.symvers -T /home/sravani/Workspace/c_ds/c_codes/LDD/first_driver/modules.order -i Module.symvers -e 

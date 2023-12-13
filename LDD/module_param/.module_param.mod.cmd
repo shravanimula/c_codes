@@ -1,0 +1,1 @@
+cmd_/home/sravani/Workspace/c_ds/c_codes/LDD/module_param/module_param.mod := printf '%s\n'   module_param.o | awk '!x[$$0]++ { print("/home/sravani/Workspace/c_ds/c_codes/LDD/module_param/"$$0) }' > /home/sravani/Workspace/c_ds/c_codes/LDD/module_param/module_param.mod
