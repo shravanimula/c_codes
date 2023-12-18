@@ -1,0 +1,5 @@
+num=int(input("enter a number:"))
+pos=int(input("enter the position:"))
+print("set bit:",(num | (1<<pos)))
+print("clear bit:",(num &(~(1<<pos))))
+print("toggle bit:",(num ^(1<<pos)))
